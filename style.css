@@ -30,12 +30,12 @@ header span {
     float: right;
 }
 
-section h2 {
+header h2 {
     font-family: "Arial", Monospace;
     font-size: 14pt;
 }
 
-section h3 {
+header h3 {
     font-family: "Arial", Monospace;
     font-size: 14pt;
 }   
