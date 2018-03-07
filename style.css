@@ -2,7 +2,7 @@ body {
     margin: 40px;
     font-family: "Candara", Serif;
     font-size: 12px;
-    background-image: url("");
+    background-image: url("https://cdn.pixabay.com/photo/2018/01/25/20/52/architecture-3107037_960_720.jpg");
     height: 100px;
     background-position: center;
     background-repeat: no-repeat;
@@ -10,7 +10,7 @@ body {
 }
 
 div {
-    border-bottom: 4px solid black;
+    border-bottom: 1px solid black;
 }
 
 header {
