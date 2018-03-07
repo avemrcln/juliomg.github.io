@@ -33,7 +33,13 @@ header span {
 section h2 {
     font-family: "Arial", Monospace;
     font-size: 14pt;
-   
+}
+
+section h3 {
+    font-family: "Arial", Monospace;
+    font-size: 14pt;
+}   
+    
 section p {
     margin-left: 40px;
 }
