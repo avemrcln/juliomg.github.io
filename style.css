@@ -9,6 +9,10 @@ body {
     background-size: cover;
 }
 
+div {
+    border-bottom: 4px solid black;
+}
+
 header {
     font-family: "Trajan Pro", Serif;
     padding-bottom: 10px;
