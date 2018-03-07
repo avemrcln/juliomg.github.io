@@ -19,7 +19,7 @@ img {
 }
 
 header h1 {
-    font-size: 20pt;
+    font-size: 10pt;
     letter-spacing: 2pt;
     border-bottom: 1px solid black;
     margin-bottom: 4px;
@@ -32,12 +32,12 @@ header span {
 
 header h2 {
     font-family: "Arial", Monospace;
-    font-size: 14pt;
+    font-size: 10t;
 }
 
 header h3 {
     font-family: "Arial", Monospace;
-    font-size: 14pt;
+    font-size: 10pt;
 }   
     
 section p {
