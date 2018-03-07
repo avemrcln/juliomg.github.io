@@ -9,10 +9,6 @@ body {
     background-size: cover;
 }
 
-div {
-    border-bottom: 1px solid black;
-}
-
 header {
     font-family: "Trajan Pro", Serif;
     padding-bottom: 10px;
@@ -38,11 +34,6 @@ section h2 {
     font-family: "Trajan Pro", Serif;
     font-size: 14pt;
    
-section h3 {
-    font-family: "Trajan Pro", Serif;
-    font-size: 14pt;
-}
-
 section p {
     margin-left: 40px;
 }
